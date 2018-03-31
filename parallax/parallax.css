@@ -36,7 +36,7 @@ p
 .bird-background
 {
     height: 900px;
-    background-image: url("images/bg.jpeg");
+    background-image: url("../images/bg.jpeg");
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
